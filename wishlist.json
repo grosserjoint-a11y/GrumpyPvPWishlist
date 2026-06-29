@@ -1,0 +1,19 @@
+{
+  "name": "Grumpy+GPT PvP Wishlist",
+  "version": "0.1.0",
+  "game": "Destiny 2",
+  "focus": {
+    "platform": "Xbox",
+    "input": "Controller",
+    "modes": [
+      "Trials of Osiris",
+      "Competitive"
+    ]
+  },
+  "filters": {
+    "bows": false,
+    "pve_rolls": false,
+    "minimum_tier": "A"
+  },
+  "weapons": []
+}
